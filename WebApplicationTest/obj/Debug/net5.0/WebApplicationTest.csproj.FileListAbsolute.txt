@@ -37,3 +37,4 @@ C:\Users\1\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\net5.0\W
 C:\Users\1\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\net5.0\WebApplicationTest.genruntimeconfig.cache
 C:\Users\1\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\net5.0\ref\WebApplicationTest.dll
 C:\Users\1\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\net5.0\WebApplicationTest.csproj.CopyComplete
+C:\Users\1\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs

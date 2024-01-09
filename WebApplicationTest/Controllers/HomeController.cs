@@ -20,12 +20,19 @@ namespace WebApplicationTest.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            int age = 18;
+            return View(age);
         }
 
         public IActionResult Privacy()
         {
             return View();
+        }
+
+        public IActionResult Test()
+        {
+            User user = new User { Name = "Airat", Age = 19 };
+            return View(user);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
