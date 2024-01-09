@@ -1,0 +1,1 @@
+A book-sharing platform that provides users with the opportunity to share books with each other. The platform will include a web application, an API for data exchange, as well as a user management system and a book catalog.
